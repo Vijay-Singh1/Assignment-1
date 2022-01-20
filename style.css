@@ -1,0 +1,206 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+.top{
+    height: 450px;
+    background-color:brown;
+   
+}
+
+.top{
+    text-align: center;
+    padding-top: 10px;
+    height: 450px;
+    overflow: hidden;
+
+    
+}
+.topbar{
+    
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    background-color:white;
+    color : brown;
+}
+
+.link{
+    
+    padding: 30px;
+    position: relative;
+    top: 2px;
+    right: 400px;
+    color:brown;
+    font-size: 40px;
+     font-style: italic;
+    font-weight: bolder  ;
+    height: 50px;
+        
+    
+}
+
+.link:hover {
+    background-color: black;
+        
+}
+
+.img{
+    position: relative;
+    right: -450px;
+    top: -330px;
+    height: 450px;
+    width: 450px;
+    background: transparent;
+}
+
+.burger{
+    position: relative;
+    top: 50px;
+    right: -40px;
+    font-style: italic;
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: fantasy;
+    width: 500px;
+    display: inline-block;
+    
+    
+    }
+
+
+   
+    .menu{
+        height: 800px;
+        background-image: url(https://st3.depositphotos.com/1558912/19061/i/1600/depositphotos_190618708-stock-photo-italian-food-background-on-white.jpgs);
+        text-align: center;
+    }
+
+    .our-menu{
+        position: relative;
+        top: 10px;
+        color: brown;
+        font-weight: bolder;
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+
+table{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 100px;
+}
+caption{
+    text-align: center;
+    color: brown;
+    font-family: fantasy;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.Favourite-food{
+    height: 200px;
+    width: 200px;
+}    
+
+.food{
+  padding-left: 40px;
+}
+a{
+    font-size: 20px;
+    font-style: italic;
+    color: brown;
+    text-decoration: none;
+}
+
+#biryani{
+    height: 500px;
+    
+    padding: 50px;
+    
+}
+
+
+#pasta{
+    height: 500px;
+   
+    padding: 30px;
+}
+#shahi-paneer{
+    height: 500px;
+
+    padding: 30px;
+    }
+
+#burger{
+    height: 500px;
+
+    padding: 30px;
+    }
+
+#dosa{
+    height: 500px;
+
+    padding: 30px;
+    }
+
+#chole-bhature{
+    height: 500px;
+ 
+    padding: 30px;
+    padding-bottom: 50px;
+    }
+
+    .sections{
+        text-align: center;
+        background-color:brown;
+        
+    }
+
+    .footer{
+        
+        height: 50px;
+        background-color: rgb(48, 29, 29);
+        
+    }
+
+    .foot{
+        color: blanchedalmond;
+    }
+
+    .back{
+        color: white;
+    }
+    .copyright{
+        position: relative;
+        right: -1100px;
+        color: white;
+    }
+
+    .list1{
+        text-align: left;
+        position: relative;
+        top: 170px;
+        left: -580px;
+        color: white;
+        display:inline-block;
+    }
+    .list{
+        color: white;
+    }
+
+    li:hover{
+        background-color:black
+    }
